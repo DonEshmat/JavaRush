@@ -1,0 +1,15 @@
+public class Solution
+{
+    public static void main(String[] args)
+    {
+       int x = 31;
+       int y = 21;
+       int c = x-y;
+       int a = 2016;
+       int b = c*100;
+       int d = a+b;
+       System.out.println(d);
+    }
+}
+
+/*3016*/
